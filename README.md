@@ -6,7 +6,7 @@ Right now, there isn't much in this page, but you can check out my GitHub profil
 
 https://github.com/PgBiel
 
-For more information on sponsorships, you can check out this page:
+For more information on sponsorships, please check out this page:
 
 https://github.com/sponsors/PgBiel
 
